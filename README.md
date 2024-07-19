@@ -1,5 +1,7 @@
 🇸🇪 SwedishFighters 🥋
 
+**BitCoin (donations):** bc1q27qarjuvw34ap6g2dxdyvwva8sd70xw2cwct
+
 Trying to make the world a better place, one line of code at a time! 🌍✨
 
 👨‍💻 About Me
