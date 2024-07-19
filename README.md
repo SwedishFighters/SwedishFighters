@@ -1,10 +1,10 @@
-🇸🇪 SwedishFighters 🥋
+🇸🇪 SwedishFighters 🥋<br><br>
 
-**BitCoin (donations):** bc1q27qarjuvw34ap6g2dxdyvwva8sd70xw2cwct
+**BitCoin (donations):** bc1q27qarjuvw34ap6g2dxdyvwva8sd70xw2cwct<br>
 
-Trying to make the world a better place, one line of code at a time! 🌍✨
+Trying to make the world a better place, one line of code at a time! 🌍✨<br>
 
-👨‍💻 About Me
+👨‍💻 About Me<br>
 Hey there! I'm SwedishFighters, a passionate coder with a mission to improve the world through technology. 
 When I'm not busy fighting bugs, you can find me exploring the latest in tech and security.
 
