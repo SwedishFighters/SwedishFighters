@@ -23,4 +23,4 @@ When I'm not busy fighting bugs, you can find me exploring the latest in tech an
 
 📫 Get in Touch
 Feel free to reach out if you want to collaborate on making the world a better place through code!
-https://x.com/SwedishFighters
+https://x.com/t1gerp4w
